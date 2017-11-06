@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Magic 8 Ball</string>
+    <string name="text">This is the Accelerometer Value</string>
+    <string name="rOC">Rate of Change: </string>
+    <string name="button">Button</string>
+    <string name="editText">Edit Text</string>
+    <string name="image">Image</string>
+
+</resources>
